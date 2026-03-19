@@ -5,7 +5,7 @@
 
 import { motion } from "motion/react";
 
-// Initial deployment trigger
+// Initial deployment trigger - 2026-03-19
 export default function App() {
   return (
     <div className="min-h-screen bg-navy text-cream font-sans overflow-hidden relative selection:bg-orange/30">
